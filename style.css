@@ -1,0 +1,39 @@
+.heading
+{
+    font-size: 35px;
+    width: 100%;
+    box-shadow: 5px 5px 5px lightslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 2;
+}
+
+.note
+{
+    font-size: 18px;
+    color: lightgoldenrodyellow;
+    font-weight: bold;
+    line-height: 25px;
+    font-family:'Times New Roman', Times, serif;
+    white-space:normal;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 5;
+    width: 100%;
+    background-color: hotpink;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    line-height: 2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+canvas
+{
+    border: 5px ridge grey;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    background-image: radial-gradient(white, pink, lightpink, hotpink, red);
+}
